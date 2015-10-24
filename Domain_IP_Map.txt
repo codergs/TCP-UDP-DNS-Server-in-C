@@ -1,0 +1,7 @@
+www.abcd.com 25 0.0.0.0
+www.yahoo.com 35 98.138.253.109 206.190.36.45  98.139.183.24
+www.apple.com 6 12.2.2.3
+www.google.com 3 64.233.169.99
+www.umd.edu 15 128.8.237.77
+www.komadi.com 0 10.1.11.12
+www.facebook.com 1 31.13.69.160  123.34.5.89

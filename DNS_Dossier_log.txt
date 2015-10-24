@@ -1,0 +1,11 @@
+2015-01-16 15:30:33 DNS Dossier listening on port 1870
+2015-01-16 15:30:33 Socket creation successful
+2015-01-16 15:30:33 Bind successful
+2015-01-16 15:30:54 127.0.0.1 : Requesting to search IP for the domain name www.facebook.com
+2015-01-16 15:30:54 Sending response to client: Domain IP resolved for www.facebook.com
+2015-01-16 15:31:19 Incoming request from client 127.0.0.1 Shutdown DNS Dossier
+2015-01-16 15:31:19 Server shutdown request from 127.0.0.1 : Accepted and Authenticated
+2015-01-16 15:31:19 Saving linked List data base to file
+2015-01-16 15:31:19 Server is going down. Connection will be lost!!
+2015-01-16 15:31:19 Closing Server listening socket
+2015-01-16 15:31:19 Saving the logfile
